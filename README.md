@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/patrykchorazy/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository is created by patrykchorazy for Coursera DevOps Capstone Project course.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
